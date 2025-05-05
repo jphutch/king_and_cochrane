@@ -17,3 +17,10 @@ The data were analyzed with Python 3 and the packages pandas, matplotlib, and nu
     - Table 21 of Baker (1939)
 - Figures: Figures 1-4 created with the files in Code from Data.
 - Writing: The files that create the manuscript in LaTex.
+
+### References
+Baker, Gladys L. (1939). The Negro County Agent. In The County Agent, pp. 191–206.
+Chicago, Illinois: The University of Chicago Press.
+
+Davis, John W. (1938). The participation of Negro land-grant colleges in permanent federal
+education funds. The Journal of Negro Education 7(3), 282–291. Publisher: JSTOR.
